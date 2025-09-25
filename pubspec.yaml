@@ -13,13 +13,13 @@ dependencies:
   animate_do: ^4.2.0
   camera: ^0.11.2
   camerawesome: ^2.5.0
-  collection: ^1.19.1
+  collection: ^1.17.0
   equatable: ^2.0.7
   flutter:
     sdk: flutter
   google_mlkit_face_detection: ^0.13.1
-  image: ^4.5.4
-  lottie: ^3.1.2
+  image: ^4.0.15
+  lottie: ^3.3.2
   path_provider: ^2.1.5
   plugin_platform_interface: ^2.1.8
   rxdart: ^0.28.0
